@@ -65,7 +65,7 @@ ninja.data = [{
           title: 'Conference Presentation at IEEE ANDESCON 2022    📍 Barranquilla, Colombia 🇨🇴',
           description: "",
           section: "News",},{id: "news-conference-presentation-at-ieee-iceccme-2023-tenerife-canary-islands-spain",
-          title: 'Conference Presentation at IEEE ICECCME 2023   📍 Tenerife, Canary Islands, Spain 🇪🇸...',
+          title: 'Conference Presentation at IEEE ICECCME 2023   📍 Tenerife, Canary Islands 🇮🇨, Spain...',
           description: "",
           section: "News",},{id: "news-new-adventure-in-france-moved-to-lyon-france-to-join-creatis-and-work-on-3d-medical-image-processing",
           title: '🌍 New Adventure in France! 🇫🇷   Moved to Lyon, France to join...',
