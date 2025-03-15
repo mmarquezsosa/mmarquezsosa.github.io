@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+"cancino":
+  - firstname: ["Sandra Cancino"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+"orkisz":
+  - firstname: ["Maciej Orkisz"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
+"roux":
+  - firstname: ["Emmanuel Roux"]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"richard":
+  - firstname: ["Jean-Christophe RIchard"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"florez-valencia":
+  - firstname: ["Leonardo Florez-Valencia"]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"davila":
+  - firstname: ["Eduardo Davila-Serrano"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"lopez":
+  - firstname: ["Juan Manuel Lopez Lopez"]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"penarrubia":
+  - firstname: ["Ludmilla Penarrubia"]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
