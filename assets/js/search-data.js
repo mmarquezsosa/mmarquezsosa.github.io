@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -50,13 +50,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -429,18 +422,47 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-my-first-national-conference-acofi-2021",
+          title: 'My first national Conference! ACOFI 2021',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-ieee-andescon-2021",
+          title: 'IEEE ANDESCON 2021',
+          description: "",
+          section: "News",},{id: "news-my-first-international-conference-ieee-urucon-2021",
+          title: 'My first international Conference! IEEE URUCON 2021',
+          description: "",
+          section: "News",},{id: "news-valedictorian-honor-graduate-laurated-in-the-bsc-in-biomedical-engineering",
+          title: 'Valedictorian Honor Graduate Laurated in the BSc. in Biomedical Engineering!',
+          description: "",
+          section: "News",},{id: "news-my-first-article-citation",
+          title: 'My first article citation! 🎉',
+          description: "",
+          section: "News",},{id: "news-presented-in-ieee-iceccme-2023",
+          title: 'Presented in IEEE ICECCME 2023',
+          description: "",
+          section: "News",},{id: "news-iabm-2024",
+          title: 'IABM 2024',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/IABM_2024/";
+            },},{id: "news-summa-cum-laude-laurated-in-the-msc-in-artificial-intelligence",
+          title: 'Summa Cum Laude Laurated in the MSc. in Artificial Intelligence!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-my-second-and-third-citation",
+          title: 'My second and third citation!',
+          description: "",
+          section: "News",},{id: "news-creation-of-this-website",
+          title: 'Creation of this website ! 🎂',
+          description: "",
+          section: "News",},{id: "news-creation-of-through-mis-yeux-project",
+          title: 'Creation of “through mis yeux project”',
+          description: "",
+          section: "News",},{id: "news-iabm-2025",
+          title: 'IABM 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/IABM_2025/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
