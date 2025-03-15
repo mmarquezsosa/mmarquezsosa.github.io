@@ -2,96 +2,127 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: María Marquez Sosa
     - name: Languages
-      value: English, German
+      value: Spanish, English, French
+    - name: Programming Languages
+      value: Python, Matlab, R, C, C++
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Signal and Image Processing
+      institution: Université Claude Bernard Lyon 1, Villeurbanne, France.
+      year: 2024-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - École Doctorale 160 Électronique, électrotechnique, automatique (EEA)
+        - Laboratoire CREATIS
+            
+    - title: MSc. in Artificial Intelligence
+      institution: Pontificia Universidad Javeriana, Bogotá, Colombia.
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Multiple Academic Excellence Certificates & Scholarships (2022-2023)
+
+    - title: BSc. in Biomedical Engineering
+      institution: Universidad del Rosario & Universidad Escuela Colombiana de Ingeniería Julio Garavito, Bogotá, Colombia.
+      year: 2017-2021
+      description:
+        - Major in Medical Signal and Image Processing
+        - Multiple Academic Excellence Scholarships (2019-2021)
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: PhD Student
+      institution: Laboratoire CREATIS – Université de Lyon 1, Lyon, France.
+      year: 2024-present
+      description:
+        - Project Title: "Fast Lung Segmentation and Registration to Assess Local Ventilation from Computed Tomography (CT) Images of Patients with Acute Respiratory Distress Syndrome (ARDS)."
+
+    - title: Research Intern
+      institution: Universidad Escuela Colombiana de Ingeniería Julio Garavito, Bogotá, Colombia.
+      year: 2023-2024
+
+
+    - title: Research Assistant
+      institution: Pontificia Universidad Javeriana, Bogotá, Colombia.
+      year: 2022-2024
+
+    - title: Research Student Leader
+      institution: Universidad Escuela Colombiana de Ingeniería Julio Garavito, Bogotá, Colombia.
+      year: 2020-2022
+      description:
+        - Student Research group PROMISE
+
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Biomedical Engineering Mentor
+      institution: Universidad Escuela Colombiana de Ingeniería Julio Garavito, Bogotá, Colombia.
+      year: 2021
+      description:
+        - Guided students in the class "Medical Signal & Image Processing"
+
+    - title: Electronic and Biomedical Engineering Mentor
+      institution: Universidad Escuela Colombiana de Ingeniería Julio Garavito, Bogotá, Colombia.
+      year: 2019-2020
+      description:
+        - Guided students in the class "Electric Circuits"
+
+    - title: Biochemistry Mentor
+      institution: Universidad del Rosario, Bogotá, Colombia.
+      year: 2021
+      description:
+        - Guided students in the class "Fundamentals of Biochemistry and Advanced Biochemistry"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Computer Vision Engineer
+      institution: INNREF, S.A.S. Bogotá, Colombia
+      year: 2022 - 2024
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Summa Cum Laude Honor Graduate - MSc. in Artificial Intelligence - Pontificia Universidad Javeriana
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Valedictorian Honor Graduate - BSc. in Biomedical Engineering - Universidad del Rosario & Universidad Escuela Colombiana de Ingeniería Julio Garavito
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Image Processing
+      items: 
+        - Segmentation
+        - Registration
+        - Feature Extraction
+        - Denoising
+        - Enhancement Techniques
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Graphic Computation
+        - Object Detection
+        - Pattern Recognition
+    - title: Medical Image Processing
       items:
-        - Description 1.
-        - Description 2.
+        - MRI and CT Image Analysis
+        - Biomedical Image Segmentation
+        - Deep Learning for Medical Imaging
+    - title: Computational Methods
+      items:
+        - Machine Learning for Image Processing
+        - Optimization Techniques
+        - GPU Computing for Image Processing
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Tennis
+    - Photography
+    - Podcast 
