@@ -490,35 +490,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%61%72%69%61.%6D%61%72%71%75%65%7A@%63%72%65%61%74%69%73.%69%6E%73%61-%6C%79%6F%6E.%66%72", "_blank");
+          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-inspire',
+        title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/mmarquezsosa", "_blank");
+          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
-        id: 'social-instagram',
-        title: 'Instagram',
+        id: 'social-rss',
+        title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/through_misyeux_project", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/maria-marquez-sosa-8b068812a/", "_blank");
+          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-6962-9881", "_blank");
+          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
