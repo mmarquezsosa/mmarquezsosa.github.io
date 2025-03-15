@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student in Signal and Image Processing | <a href='https://www.creatis.insa-lyon.fr/site/fr'>Laboratoire CREATIS</a> | <a href='https://www.creatis.insa-lyon.fr/site/fr/equipe-de-recherche/myriad'>MYRIAD team</a> | Université Claude Bernard Lyon I 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bâtiment Léonard de Vinci</p>
+    <p>21 avenue Jean Capelle</p>
+    <p>69621 Villeurbanne, France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 15 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+  #enabled: true
+  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  #limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a **PhD student in Signal and Image Processing** at **Laboratoire CREATIS**, **Université Claude Bernard Lyon 1**, **INSA-Lyon**, **CNRS**, and **Inserm (CREATIS UMR 5220)**. My research explores the fusion of **deep learning and computer vision** for **3D image segmentation and registration**. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated **Summa Cum Laude** from the [Master of Science in Artificial Intelligence](https://www.javeriana.edu.co/maestria-inteligencia-artificial) at **Pontificia Universidad Javeriana** and was honored as **Valedictorian** in my [Biomedical Engineering Bachelor's](https://www.escuelaing.edu.co/es/programas/ingenieria-biomedica/). My research interests include **image processing, computer graphics, data analysis, and machine learning-based biomedical applications.**
