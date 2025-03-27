@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "highlights-became-ieee-undergraduate-student-member-institute-of-electrical-and-electronics-engineers-https-www-ieee-org-colombian-chapter",
-          title: 'Became IEEE Undergraduate Student Member (Institute of Electrical and Electronics Engineers)[https://www.ieee.org/]   Colombian...',
+        },{id: "highlights-became-ieee-undergraduate-student-member-institute-of-electrical-and-electronics-engineers-colombian-chapter",
+          title: 'Became IEEE Undergraduate Student Member (Institute of Electrical and Electronics Engineers)   Colombian...',
           description: "",
           section: "Highlights",},{id: "highlights-my-first-national-conference-presentation-at-acofi-2021-cartagena-colombia",
           title: 'My First National Conference Presentation at ACOFI 2021   📍 Cartagena, Colombia 🇨🇴...',
